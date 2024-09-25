@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Felipe!</h1>
 <h3 align="center">Estudante de Análise e Ciência de Dados</h3>
 
-- 🌱 Atualmente estudo nas seguintes instituições: **DNC, DIO e Udemy**
+- 🌱 Atualmente estudo nas seguintes instituições **DNC, DIO e Udemy**
 
-- 📫 Como entrar em contato comigo: **felipetamiozzo@hotmail.com**
+- 📫 Como entrar em contato comigo **felipetamiozzo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

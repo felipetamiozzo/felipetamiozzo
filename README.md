@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Felipe!</h1>
 <h3 align="center">Estudante de Análise e Ciência de Dados</h3>
 
-- 🌱 Atualmente estudo as seguintes linguagens e skills: **Python, Machine Learning, SQL, Power BI e Excel**, pelas instituições DNC, DIO e Udemy**
+- 🌱 Atualmente estudo as seguintes linguagens e skills: **Python, Machine Learning, SQL, Power BI e Excel**, pelas instituições DNC, DIO e Udemy
 
 - 👨‍💻 Meu portfólio está presente em meus repositórios [https://github.com/felipetamiozzo?tab=repositories](https://github.com/felipetamiozzo?tab=repositories)
 

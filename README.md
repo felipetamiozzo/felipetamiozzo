@@ -1,11 +1,14 @@
-<h1 align="center">Olá, eu sou o Felipe!</h1>
-<h3 align="center">Estudante de Análise e Ciência de Dados</h3>
+<h3 align="center">Estudante de Análise e Ciência de Dados, formado em tecnólogo em Gestão Comercial e técnico em Segurança do Trabalho.</h3>
 
-- 🌱 Atualmente estudo as seguintes linguagens e skills: **Python, Machine Learning, SQL, Power BI, Excel**
+- 🌱 Atualmente estudo as seguintes linguagens e skills: **Python, Machine Learning, SQL, Power BI e Excel**
 
 - 👨‍💻 Meu portfólio está presente em meus repositórios [https://github.com/felipetamiozzo?tab=repositories](https://github.com/felipetamiozzo?tab=repositories)
 
+- 💬 Estudante de Ciência de Dados nas seguintes plataformas: **DNC, DIO, Udemy**
+
 - 📫 Como entrar em contato comigo **felipetamiozzo@hotmail.com**
+
+- ⚡ Meu objetivo: **Ajudar empresas e instituições a melhoras suas tomadas de decisões por meio da análise e projeções de dados.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

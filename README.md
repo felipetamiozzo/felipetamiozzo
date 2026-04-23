@@ -1,65 +1,88 @@
-<h1 align="center">Olá, sou o Felipe Tamiozzo! 👋</h1>
+# Olá, eu sou Felipe Tamiozzo 👋
 
-<h3 align="center">
-  🚀 Em transição de carreira para Análise e Ciência de Dados
-</h3>
-
-<p align="center">
-  <em>Graduando em Ciência de Dados pela Universidade Cruzeiro do Sul | Formação em Dados pela Escola DNC</em>
-</p>
+🎯 Data Analyst | Python | SQL | ETL | Machine Learning  
+📊 Transformando dados em insights e soluções orientadas a negócio  
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-Com background em **Gestão Comercial** e **Segurança do Trabalho**, trago uma visão analítica orientada a negócios e resolução de problemas. Atualmente, estou direcionando minha carreira para a área de **Dados**, combinando minha experiência prévia com novas competências técnicas para gerar valor e insights estratégicos.
+Sou Data Analyst com experiência prática no desenvolvimento de projetos de análise de dados e Machine Learning, atuando desde a coleta e tratamento de dados (ETL), análise exploratória (EDA), até modelagem preditiva e deploy de aplicações.
 
-Sou apaixonado por descobrir padrões em dados e criar modelos preditivos. Tenho me dedicado a projetos práticos envolvendo desde a limpeza e manipulação de dados até a construção de modelos de Machine Learning e análises estatísticas aprofundadas.
+Tenho uma abordagem orientada a negócio, buscando sempre conectar dados a impacto real e tomada de decisão.
 
-- 🎓 **Formação:** Cursando Superior em Ciência de Dados (Cruzeiro do Sul) e especialização pela Escola DNC.
-- 🔭 **Atualmente trabalhando em:** Projetos de Classificação (Machine Learning), Análise Exploratória de Dados (EDA) e otimização de consultas SQL.
-- 🌱 **Aprendendo:** Aprofundando conhecimentos em Estatística Inferencial, Scikit-learn e Pipelines de dados.
-- 🎯 **Objetivo:** Ajudar empresas a melhorarem suas tomadas de decisões através de análises precisas e projeções de dados confiáveis.
+Minha transição para a área de dados é sustentada por projetos práticos end-to-end, com foco em resolver problemas reais.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🧠 Projetos em Destaque
 
-Minha caixa de ferramentas atual inclui:
+🔹 **Mental Health Predictor (Machine Learning)**  
+Modelo preditivo com Gradient Boosting (Recall 87%), com deploy em aplicação web (Streamlit)  
+👉 Foco: prevenção e apoio à tomada de decisão em RH  
 
-**Linguagens e Banco de Dados:**
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/>
-</p>
+🔹 **Customer Segmentation (K-Means)**  
+Clusterização de clientes baseada em comportamento de consumo  
+👉 Foco: marketing de precisão e aumento de ROI  
 
-**Bibliotecas de Data Science:**
-* `Pandas` / `Numpy` (Manipulação de Dados)
-* `Matplotlib` / `Seaborn` (Visualização)
-* `Scikit-learn` / `SciPy` (Machine Learning e Estatística)
+🔹 **EDA - Dataset iFood (+400k registros)**  
+Análise exploratória identificando padrões de comportamento  
+👉 Foco: geração de insights estratégicos  
 
-**Outras Ferramentas:**
-* Excel & Power BI
-* Git & GitHub
-* VS Code & Jupyter Notebooks
+🔹 **Spotify Hit Predictor (API + ML)**  
+Modelo para prever sucesso de músicas com integração de API  
+👉 Foco: análise de mercado musical  
 
 ---
 
-### 📊 Portfólio e Projetos
+## 🛠️ Tecnologias e Ferramentas
 
-Você pode conferir a evolução do meu aprendizado e meus projetos práticos na aba de repositórios:
-👉 **[Acessar Repositórios](https://github.com/felipetamiozzo?tab=repositories)**
+**Linguagens & Dados**  
+- Python  
+- SQL  
 
-> *Destaques recentes incluem análises de datasets públicos (como Spotify e Saúde Mental em Tech) e implementações de algoritmos de classificação.*
+**Data Analysis & Machine Learning**  
+- Pandas, NumPy  
+- Scikit-learn, XGBoost  
+- Estatística aplicada  
+
+**Visualização de Dados**  
+- Power BI  
+- Matplotlib, Seaborn  
+
+**Engenharia & Deploy**  
+- ETL (Extração, Transformação e Carga)  
+- Streamlit  
+- FastAPI  
+
+**Ferramentas**  
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
 
 ---
 
-### 📫 Vamos nos conectar?
+## 📈 O que você vai encontrar aqui
 
-Estou sempre aberto a trocas de conhecimento e novas oportunidades na área de dados.
+- Projetos end-to-end de Data Science  
+- Aplicações com Machine Learning em produção  
+- Análises exploratórias com dados reais  
+- Soluções orientadas a negócio  
 
-<p align="left">
-<a href="https://linkedin.com/in/felipetamiozzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipetamiozzo" height="30" width="40" /></a>
-<a href="mailto:felipetamiozzo@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
-</p>
+---
+
+## 🎯 Objetivo
+
+Atuar como **Data Analyst**, aplicando análise de dados e Machine Learning para gerar impacto real em negócios e evoluir para posições em Ciência de Dados.
+
+---
+
+## 📫 Contato
+
+📎 GitHub: https://github.com/felipetamiozzo  
+💼 LinkedIn: https://linkedin.com/in/felipetamiozzo/  
+📩 Email: felipetamiozzo@hotmail.com  
+
+---
+
+⭐ Se algum projeto for interessante, fique à vontade para explorar os repositórios!

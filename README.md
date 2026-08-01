@@ -9,11 +9,23 @@ Transformando dados em decisões estratégicas por meio de análise, modelagem p
 ## Sobre mim
 Sou Analista de Dados, atualmente cursando Ciência de Dados pela Cruzeiro do Sul Virtual, com foco na geração de **impacto mensurável** ao conectar dados a indicadores de desempenho e apoio à tomada de decisão. 
 
-Minha jornada técnica é fundamentada pela certificação intensiva em Análise e Ciência de Dados pela Escola DNC, e continuo expandindo minhas habilidades em arquitetura escalável como bolsista em infraestrutura de nuvem (AWS) pela Escola da Nuvem. Atuo em projetos *end-to-end*, desde a extração e tratamento de dados (ETL), passando por consultas avançadas no BigQuery (GCP), até a implementação de modelos de Machine Learning interativos.
+Minha jornada técnica é fundamentada pela certificação intensiva em Análise e Ciência de Dados pela Escola DNC, e continuo expandindo minhas habilidades em arquitetura escalável como bolsista em infraestrutura de nuvem (AWS) pela Escola da Nuvem. Atuo em projetos *end-to-end*, desde a extração e tratamento de dados (ETL), passando por consultas avançadas no BigQuery (GCP), até a implementação de modelos de Machine Learning interativos e dashboards executivos.
 
 ---
 
 ## Projetos em Destaque
+
+### 💼 Comercial Analytics
+**Power BI • DAX • Time Intelligence • ETL • UI/UX**
+Ferramenta executiva para monitoramento de indicadores estratégicos de vendas, faturamento e performance comercial. Construído com modelagem Star Schema, inteligência de tempo (MoM) e interface customizada (App-like experience) via HTML/CSS nativo.
+- **Impacto de negócio:** Identificação de gargalos na margem de lucro, análise de sazonalidade e ranqueamento de performance regional e de equipe para suporte direto à diretoria.
+🔗 [Repositório](https://github.com/felipetamiozzo/Comercial-Analytics-PowerBI)
+
+### 📊 Marketing Campaign Analytics
+**Power BI • DAX • Power Query • HTML/CSS • Data Storytelling**
+Dashboard interativo projetado para avaliar a performance de campanhas de marketing, comportamento de compra dos clientes e padrões de vendas globais, utilizando integrações visuais avançadas.
+- **Impacto de negócio:** Visão 360º sobre o perfil do consumidor e taxas de conversão, entregando insights acionáveis sobre a efetividade das estratégias de marketing.
+🔗 [Repositório](https://github.com/felipetamiozzo/Marketing-Campaign-Analytics-PowerBI)
 
 ### 📈 Previsão de Faturamento no Varejo
 **Python • XGBoost • Time Series • Feature Engineering**
@@ -68,10 +80,10 @@ Análise exploratória em grande volume de dados para identificação de padrõe
 ### Cloud & Engenharia de Dados
 - AWS (Escola da Nuvem)
 - Google Cloud Platform (Consultas Federadas / BigQuery)
-- ETL (Extract, Transform, Load)
+- ETL (Extract, Transform, Load) / Power Query
 
 ### Visualização & Ferramentas
-- Power BI
+- Power BI (DAX Avançado, UI/UX)
 - Streamlit, FastAPI
 - Matplotlib, Seaborn
 - Git & GitHub, Jupyter Notebook, VS Code
